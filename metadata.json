@@ -1,0 +1,23 @@
+{
+    "title": "Exercise: Python Print Prime Numbers Below 100",
+    "slug": "exercise-python-primes-below-100",
+    "description": "Builds a loop-based prime finder under 100 using nested iteration and divisibility checks.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python",
+        "exercise"
+    ],
+    "duration": 12,
+    "prerequisites": [
+        "python-loop-control",
+        "python-nested-for-loops",
+        "python-lists-introduction",
+        "python-conditionals-if-elif-else",
+        "programming-testing-for-factors-with-modulo"
+    ],
+    "related": [
+        "sample-solution-1-python-primes-below-100"
+    ]
+}
