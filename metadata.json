@@ -9,7 +9,7 @@
         "python",
         "exercise"
     ],
-    "duration": 12,
+    "duration": 13,
     "prerequisites": [
         "python-loop-control",
         "python-nested-for-loops",
